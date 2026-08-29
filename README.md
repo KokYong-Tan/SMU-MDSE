@@ -1,6 +1,6 @@
 # SMU MDSE Repository
 
-This repository contains Python code, exercises, notebooks, and related materials for the **SMU Master of Data Science for Economics (MDSE)** programme.
+This repository contains Python code, exercises, notebooks, and related materials for the **SMU Master of Data Science in Economics (MDSE)** programme.
 
 ## Contents
 
